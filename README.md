@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Mauricio Coutinho</h1>
+```<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Mauricio Coutinho</h1>
 
 - 🔥 Student of Computer Science in UVA
 
@@ -25,8 +25,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Sabrina1408&show_icons=true&theme=vision-friendly-dark" alt="sabrina's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabrina1408&layout=compact&theme=vision-friendly-dark" alt="sabrina's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=MauricioMCoutinho&show_icons=true&theme=vision-friendly-dark" alt="Mauricio's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioMCoutinho&layout=compact&theme=vision-friendly-dark" alt="Mauricio's most languages"/>
 </p>
 
 <br><br>
@@ -34,10 +34,15 @@
 ## 👨🏽‍🦲 &nbsp;Social Links
 
 <p align="left" style="background:yellow">
-<a href="https://www.linkedin.com/in/mauricio-coutinho-84a758240/" target="_blank">
+<a href="https://www.linkedin.com/in/sabrina-a-brito/" target="_blank">
   linkedin
 </a>
-<a href="https://www.instagram.com/mauricio.moraes10/" target="_blank">
+<a href="https://www.instagram.com/sabrina_cjcj/" target="_blank">
  instagram
 </a>
 </p>
+
+<!---
+Sabrina1408/Sabrina1408 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->```
