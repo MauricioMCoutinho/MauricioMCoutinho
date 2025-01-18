@@ -31,13 +31,14 @@
 
 <br><br>
 
-## 👨🏽‍🦲 &nbsp;Social Links
+## 🧔🏻 &nbsp;Social Links
 
 <p align="left" style="background:yellow">
 <a href="https://www.instagram.com/mauricio.moraes10/" target="_blank">
-  linkedin
+  instagram
+</p>
 </a>
+<p align="left" style="background:yellow">
 <a href="https://www.linkedin.com/in/mauricio-coutinho-84a758240/" target="_blank">
- instagram
-</a>
+  linkedin
 </p>
